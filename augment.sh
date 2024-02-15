@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=6 python generate_augmented_dataset.py

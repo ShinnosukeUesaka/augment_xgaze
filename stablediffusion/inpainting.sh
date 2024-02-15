@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=5,6 streamlit run scripts/streamlit/inpainting.py -- configs/stable-diffusion/v2-inpainting-inference.yaml 512-inpainting-ema.ckpt

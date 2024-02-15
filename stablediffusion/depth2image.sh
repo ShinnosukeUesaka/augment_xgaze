@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=5,6 streamlit run scripts/streamlit/depth2img.py configs/stable-diffusion/v2-midas-inference.yaml 512-depth-ema.ckpt midas_models/dpt_hybrid-midas-501f0c75.pt
